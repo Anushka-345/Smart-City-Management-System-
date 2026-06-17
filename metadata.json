@@ -1,0 +1,6 @@
+{
+  "name": "Compliance AI Tracker",
+  "description": "Automated compliance tracking, document verification, and policy enforcement system using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
